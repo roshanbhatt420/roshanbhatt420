@@ -12,3 +12,8 @@
 <h1>SKILLS</h1>
 <p>-HTML</p>
 <P>-CSS</P>
+<hr>
+<br>
+<h1>PROJECTS</h1>
+<br>
+<p>- Personal static portfolio  </p>
