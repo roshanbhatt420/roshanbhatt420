@@ -6,3 +6,9 @@
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: "I want to make my own kingdom of innovation"<br>
 " My approch based  on solving the real life problems with  coding and i think most of can be done "
+<br>
+<br>
+<hr>
+<h1>SKILLS</h1>
+<p>-HTML</p>
+<P>-CSS</P>
