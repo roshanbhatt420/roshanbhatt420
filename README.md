@@ -10,8 +10,10 @@
 <br>
 <hr>
 <h1>SKILLS</h1>
+<P>-python</P>
 <p>-HTML</p>
 <P>-CSS</P>
+<P>-Basic Js</P>
 <hr>
 <br>
 <h1>PROJECTS</h1>
