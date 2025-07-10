@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @roshanbhatt420<br>👀 Interested in ML/ AI<br>🌱 Currently learning Python<br>🌱 Pursuing  Software Engineering Degree<br>📫 E-mail: roshabhatta605@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: "I want to make my own kingdom of innovation"<br>" My approach based on solving the real life problems with technology  and i think most of can be done "
+👋 Hi, I’m @roshanbhatt420<br>👀 Interested in ML/ AI<br>📫 E-mail: roshabhatta605@gmail.com<br>😄" My approach based on solving the real life problems with technology  and i think most of can be done "
 
 
 ## 🌐 Socials:
